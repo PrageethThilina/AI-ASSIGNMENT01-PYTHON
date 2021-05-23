@@ -4,5 +4,5 @@ A Python program to find a solution to Tower of Hanoy Problem Using DFS &amp; BF
 ## To run the Breadth First Search method
 Go to Project -> Breadth First Search Method -> and run the move.py file
 
-## To run the DepthFirst Search method
+## To run the Depth First Search method
 Go to Project -> Depth First Search Method -> and run the move.py file
